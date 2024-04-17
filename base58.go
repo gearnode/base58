@@ -1,4 +1,4 @@
-package base58 // import "gearno.de/base58"
+package base58 
 
 import (
 	"fmt"
